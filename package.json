@@ -1,0 +1,16 @@
+{
+  "name": "drive-api-v3-quickstart-nodejs",
+  "version": "1.0.0",
+  "description": "Trying **[Google Drive API v3 Quick Start - Nodejs](https://developers.google.com/drive/api/v3/quickstart/nodejs)**",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^47.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
